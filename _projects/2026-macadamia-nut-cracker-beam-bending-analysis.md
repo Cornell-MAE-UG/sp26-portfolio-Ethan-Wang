@@ -3,9 +3,8 @@ layout: project
 title: Macadamia Nut Cracker Beam Bending Analysis
 description: Assignment for ENGRD 2020 Statics
 technologies: Beam bending
-image: 
-    - /assets/images/nut-cracker-beam-analysis_page-0001.jpg 
-    - /assets/images/nut-cracker-beam-analysis_page-0002.jpg
+image: /assets/images/nut-cracker-beam-analysis.jpg 
+
 ---
 
 
